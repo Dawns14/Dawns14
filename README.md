@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on 3D Computer Vision 
+- 🌱 I’m currently learning AI Agent
 <!--
 **Dawns14/Dawns14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
